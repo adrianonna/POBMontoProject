@@ -1,0 +1,27 @@
+[EL Fine]: server: 2019-08-14 16:55:03.607--Thread(Thread[main,5,main])--Configured server platform: org.eclipse.persistence.platform.server.NoServerPlatform
+[EL Config]: metadata: 2019-08-14 16:55:03.794--ServerSession(670035812)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Raca] is set to [FIELD].
+[EL Config]: metadata: 2019-08-14 16:55:03.835--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the one to many mapping element [field animais] is being defaulted to: class modelo.Animal.
+[EL Config]: metadata: 2019-08-14 16:55:03.838--ServerSession(670035812)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Produto] is set to [FIELD].
+[EL Config]: metadata: 2019-08-14 16:55:03.839--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the many to many mapping element [field atendimentos] is being defaulted to: class modelo.Atendimento.
+[EL Config]: metadata: 2019-08-14 16:55:03.839--ServerSession(670035812)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Atendimento] is set to [FIELD].
+[EL Config]: metadata: 2019-08-14 16:55:03.84--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the many to many mapping element [field servicos] is being defaulted to: class modelo.Servico.
+[EL Config]: metadata: 2019-08-14 16:55:03.84--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the many to many mapping element [field produtos] is being defaulted to: class modelo.Produto.
+[EL Config]: metadata: 2019-08-14 16:55:03.842--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the many to one mapping element [field animal] is being defaulted to: class modelo.Animal.
+[EL Config]: metadata: 2019-08-14 16:55:03.844--ServerSession(670035812)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Cliente] is set to [FIELD].
+[EL Config]: metadata: 2019-08-14 16:55:03.845--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the one to many mapping element [field animais] is being defaulted to: class modelo.Animal.
+[EL Config]: metadata: 2019-08-14 16:55:03.845--ServerSession(670035812)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Animal] is set to [FIELD].
+[EL Config]: metadata: 2019-08-14 16:55:03.846--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the many to one mapping element [field cliente] is being defaulted to: class modelo.Cliente.
+[EL Config]: metadata: 2019-08-14 16:55:03.847--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the many to one mapping element [field raca] is being defaulted to: class modelo.Raca.
+[EL Config]: metadata: 2019-08-14 16:55:03.847--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the one to many mapping element [field atendimentos] is being defaulted to: class modelo.Atendimento.
+[EL Config]: metadata: 2019-08-14 16:55:03.849--ServerSession(670035812)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Servico] is set to [FIELD].
+[EL Config]: metadata: 2019-08-14 16:55:03.849--ServerSession(670035812)--Thread(Thread[main,5,main])--The target entity (reference) class for the many to many mapping element [field atendimentos] is being defaulted to: class modelo.Atendimento.
+[EL Config]: metadata: 2019-08-14 16:55:03.85--ServerSession(670035812)--Thread(Thread[main,5,main])--The alias name for the entity class [class modelo.Raca] is being defaulted to: Raca.
+[EL Config]: metadata: 2019-08-14 16:55:03.872--ServerSession(670035812)--Thread(Thread[main,5,main])--The column name for element [especie] is being defaulted to: ESPECIE.
+[EL Config]: metadata: 2019-08-14 16:55:03.874--ServerSession(670035812)--Thread(Thread[main,5,main])--The column name for element [tamanho] is being defaulted to: TAMANHO.
+[EL Config]: metadata: 2019-08-14 16:55:03.874--ServerSession(670035812)--Thread(Thread[main,5,main])--The column name for element [nome] is being defaulted to: NOME.
+[EL Config]: metadata: 2019-08-14 16:55:03.875--ServerSession(670035812)--Thread(Thread[main,5,main])--The alias name for the entity class [class modelo.Produto] is being defaulted to: Produto.
+[EL Config]: metadata: 2019-08-14 16:55:03.875--ServerSession(670035812)--Thread(Thread[main,5,main])--The column name for element [preco] is being defaulted to: PRECO.
+[EL Config]: metadata: 2019-08-14 16:55:03.875--ServerSession(670035812)--Thread(Thread[main,5,main])--The column name for element [nome] is being defaulted to: NOME.
+[EL Config]: metadata: 2019-08-14 16:55:03.875--ServerSession(670035812)--Thread(Thread[main,5,main])--The alias name for the entity class [class modelo.Atendimento] is being defaulted to: Atendimento.
+[EL Config]: metadata: 2019-08-14 16:55:03.876--ServerSession(670035812)--Thread(Thread[main,5,main])--The column name for element [funcionario] is being defaulted to: FUNCIONARIO.
+[EL Config]: metadata: 2019-08-14 16:55:03.876--ServerSession(670035812)--Thread(Thread[main,5,main])--The column name for element [precoTotal] is being defaulted to: PRECOTOTAL.
